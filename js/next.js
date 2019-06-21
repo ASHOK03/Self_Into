@@ -25,7 +25,7 @@ $(document).ready(function() {
 	listCommands = 'Available commands - [about] [bio] [contact] [skills] [social] [quote] [clear]',
 	commandNotFound = 'Command not found. Don\'t worry, it\'s probably just a glitch in the Matrix. Gli Glitch in the Matrix trix.',
 	skills = "Main: JavaScript, HTML, CSS, Java, C, GIT and Github.\n Familiar with: React.js, Python, MySQL, C++,",
-	contact = "Feel free to contact me on ashokostwal98@yahoo.com. It can be for a project or a chit-chat about Web Dev.";
+	contact = "Feel free to contact me on ashokostwal98@yahoo.com.\n It can be for a project or a chit-chat about Web Dev.";
 	// let
 
 	let arrowNavigationMode = false;
